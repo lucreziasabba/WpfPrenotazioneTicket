@@ -94,5 +94,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PrenotazioneLibreria\PrenotazioneLibreria.csproj">
+      <Project>{8603e1c8-4210-4aca-90f3-dc5a42f0cdee}</Project>
+      <Name>PrenotazioneLibreria</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
