@@ -57,7 +57,7 @@
 
                         <StackPanel Grid.Row="2" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">
                             <TextBox Text="" Name="txtCognome" FontSize="20" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Height="33" Width="200"/>
-                        </StackPanel>
+                        </StackPanel>  
 
                         <StackPanel Grid.Row="3" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center">
                             <Label Content="Cellulare:" FontSize="20" FontWeight="Bold" VerticalContentAlignment="Center" HorizontalContentAlignment="Left" Foreground="brown" Height="35" Width="170"/>
